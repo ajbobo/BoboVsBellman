@@ -1,6 +1,6 @@
-## Bobo vs Bellman
+# Bobo vs Bellman
 
-# History
+## History
 When I was in the 9th grade, and just leaning to program, I wrote a program to determine a letter grade from a percentage.
 My teacher, Mr. Bellman, called it out as a very bad example of how to write a complicated if statement.
 
@@ -9,7 +9,7 @@ it would have fewer comparisons, depending on the input data.
 
 30 years later, I finally got around to testing that theory. 
 
-# Conclusion
+## Conclusion
 If the grades are evenly distributed from 0-100, then my solution has fewer comparisons.  
 However, if the grades are distributed normally around a particular percentage (75% for a C, for example), then his
 solution is better.
